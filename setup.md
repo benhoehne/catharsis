@@ -1,5 +1,3 @@
-ssh bh@192.168.188.102
-
 ## Update the Official content types
 
 `cd /volume1/web/libs_xr/`
