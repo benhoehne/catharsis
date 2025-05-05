@@ -28,6 +28,9 @@
   "scripts": {
     "start": "node ./catharsis.js server start attached",
     "stop": "node ./catharsis.js server stop",
+    "update": "node ./catharsis.js update",
+    "check": "node ./catharsis.js check",
+    "mirror": "node ./catharsis.js mirror https://api.h5p.org/v1/content-types",
     "lint": "eslint --ignore-pattern 'node_modules/**' --ignore-pattern 'assets/**'"
   }
 }
